@@ -19,8 +19,14 @@ print(message)
 In this example, `greet` is a function that takes a `name` argument and returns a greeting message.
 
 ### Modules
-
+In Python, a module is simply a file containing Python code (with a .py extension) that can define functions, classes, and variables. Modules allow you to break down large, complex programs into smaller, organized, and reusable parts.
+OR
 A module is a Python script containing Python code. It can define functions, classes, and variables that can be used in other Python scripts. Modules help organize and modularize your code, making it more maintainable.
+
+### Types of Modules
+1. Built-in Modules: Bundled with the official Python Standard Library (e.g., math, os, random, sys).
+2. Third-Party Modules: Downloaded from the Python Package Index (PyPI) using a terminal command like pip install requests.
+3. User-Defined Modules: Custom files created by you to separate your app logic.
 
 **Example:**
 
