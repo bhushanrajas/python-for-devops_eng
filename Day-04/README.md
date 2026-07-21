@@ -20,7 +20,9 @@ In this example, `greet` is a function that takes a `name` argument and returns 
 
 ### Modules
 In Python, a module is simply a file containing Python code (with a .py extension) that can define functions, classes, and variables. Modules allow you to break down large, complex programs into smaller, organized, and reusable parts.
+
 OR
+
 A module is a Python script containing Python code. It can define functions, classes, and variables that can be used in other Python scripts. Modules help organize and modularize your code, making it more maintainable.
 
 ### Types of Modules
@@ -61,10 +63,10 @@ A package is a collection of modules organized in directories. Packages help you
 Suppose you have a package structure as follows:
 
 ```
-my_package/
-    __init__.py
-    module1.py
-    module2.py
+my_package/                          # The package directory
+    __init__.py                      # Initializes the package (can be empty)
+    module1.py                       # Contains functions, classes, or variables
+    module2.py                       # Another module
 ```
 
 You can use modules from this package as follows:
