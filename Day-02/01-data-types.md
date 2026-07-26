@@ -8,9 +8,9 @@ In programming, a data type is a classification or categorization that specifies
    - **complex**: Represents complex numbers. Example: `z = 2 + 3j`
 
 2. **Sequence Types:**
-   - **str**: Represents strings (sequences of characters). Example: `text = "Hello, World"`
-   - **list**: Represents lists (ordered, mutable sequences). Example: `my_list = [1, 2, 3]`
-   - **tuple**: Represents tuples (ordered, immutable sequences). Example: `my_tuple = (1, 2, 3)`
+   - **str**: Represents strings (sequences of characters). ('...'), double quotes ("...") Example: `text = "Hello, World"`
+   - **list**: Represents lists (ordered, mutable sequences). square brackets Example: `my_list = [1, 2, 3]`
+   - **tuple**: Represents tuples (ordered, immutable sequences). round brackets Example: `my_tuple = (1, 2, 3)`
 
 3. **Mapping Type:**
    - **dict**: Represents dictionaries (key-value pairs). Example: `my_dict = {'name': 'John', 'age': 30}`
