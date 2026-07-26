@@ -9,14 +9,14 @@ In programming, a data type is a classification or categorization that specifies
 
 2. **Sequence Types:**
    - **str**: Represents strings (sequences of characters). ('...'), double quotes ("...") Example: `text = "Hello, World"`
-   - **list**: Represents lists (ordered, mutable sequences). square brackets Example: `my_list = [1, 2, 3]`
-   - **tuple**: Represents tuples (ordered, immutable sequences). round brackets Example: `my_tuple = (1, 2, 3)`
+   - **list**: Represents lists (ordered, mutable sequences). "square brackets" Example: `my_list = [1, 2, 3]`
+   - **tuple**: Represents tuples (ordered, immutable sequences). "round brackets" Example: `my_tuple = (1, 2, 3)`
 
 3. **Mapping Type:**
-   - **dict**: Represents dictionaries (key-value pairs). Example: `my_dict = {'name': 'John', 'age': 30}`
+   - **dict**: Represents dictionaries (key-value pairs)."curly braces" Example: `my_dict = {'name': 'John', 'age': 30}`
 
 4. **Set Types:**
-   - **set**: Represents sets (unordered collections of unique elements). Example: `my_set = {1, 2, 3}`
+   - **set**: Represents sets (unordered collections of unique elements). "curly braces" Example: `my_set = {1, 2, 3}`
    - **frozenset**: Represents immutable sets. Example: `my_frozenset = frozenset([1, 2, 3])`
 
 5. **Boolean Type:**
